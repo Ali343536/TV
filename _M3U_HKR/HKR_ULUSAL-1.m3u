@@ -31,6 +31,8 @@ http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
 https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
 #EXTINF:-1 tvg-name="KANAL 7" tvg-language="Turkish" tvg-country="TR" tvg-id="Kanal7.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/kanal-7-tr.png?raw=true" group-title="ULUSAL",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
+#EXTINF:-1 tvg-name="HABERTURK TV" tvg-language="Turkish" tvg-country="TR" tvg-id="HaberturkTV.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/haberturk-tr.png?raw=true" group-title="ULUSAL",HABERTURK TV
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_720p.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-language="Turkish" tvg-country="TR" tvg-id="NTV.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/ntv-tr.png?raw=true" group-title="ULUSAL",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-name="TELE 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Tele1.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/tele1-tr.png?raw=true" group-title="ULUSAL",TELE 1
