@@ -37,7 +37,7 @@ https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 http://185.234.111.229:8000/play/a01y
 #EXTINF:-1 tvg-name="TV 100" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/tv100-tr.png?raw=true" group-title="ULUSAL",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/trt-spor-yeni.png?raw=true" group-title="ULUSAL",TRT SPOR
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/trt-spor-kurumsal.png?raw=true" group-title="ULUSAL",TRT SPOR
 http://stream.tvcdn.net/spor/trt-spor.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/trt-spor-yildiz-tr.png?raw=true" group-title="ULUSAL",TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
@@ -49,7 +49,7 @@ https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 http://stream.tvcdn.net/spor/sports-tv.m3u8
 #EXTINF:-1 tvg-name="YABAN TV" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/yaban-tr.png?raw=true" group-title="ULUSAL",YABAN TV
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/trt-belgesel-dikey.jpg?raw=true" group-title="ULUSAL",TRT BELGESEL
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/trt-belgesel.png?raw=true" group-title="ULUSAL",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/tlc.png?raw=true" group-title="ULUSAL",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
