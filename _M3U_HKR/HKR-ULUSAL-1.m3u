@@ -47,6 +47,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 #EXTINF:-1 tvg-name="SPORTS TV" tvg-language="Turkish" tvg-country="TR" tvg-id="SportsTV.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/sportstv.png?raw=true" group-title="ULUSAL",SPORTS TV
 http://stream.tvcdn.net/spor/sports-tv.m3u8
+#EXTINF:-1 tvg-name="BRIC & SATRANC TV" tvg-language="Turkish" tvg-country="TR" tvg-id="BricveSatrancTV.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/bric-satranc-tv.png?raw=true" group-title="ULUSAL",BRIC & SATRANC TV
+http://139.162.182.79/live/test/index.m3u8
 #EXTINF:-1 tvg-name="National Geographic" tvg-language="Turkish" tvg-country="TR" tvg-id="NationalGeographic.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/national-geographic.png?raw=true" group-title="ULUSAL",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-name="National Geographic Wild" tvg-language="Turkish" tvg-country="TR" tvg-id="NationalGeographicWild.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/national-geographic-wild.png?raw=true" group-title="ULUSAL",National Geographic Wild
