@@ -7,6 +7,7 @@ http://185.234.111.229:8000/play/a00y
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 #EXTINF:-1 tvg-name="Bloomberg HT" tvg-language="Turkish" tvg-country="TR" tvg-id="BloombergHT.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/bloomberg-ht-tr.png?raw=true" group-title="ULUSAL",Bloomberg HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+
 #EXTINF:-1 tvg-name="KANAL D" tvg-language="Turkish" tvg-country="TR" tvg-id="KanalD.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/kanal-d-tr.png?raw=true" group-title="ULUSAL",KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
@@ -18,6 +19,7 @@ https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
 EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" tvg-id="ATV.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/atv-tr.png?raw=true" group-title="ULUSAL",ATV
 http://stream.tvcdn.net/ulusal/atv.m3u8
+
 #EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="TV8.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/tv8-tr.png?raw=true" group-title="ULUSAL",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-name="TV 8.5" tvg-language="Turkish" tvg-country="TR" tvg-id="TV85.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/tv85-tr.png?raw=true" group-title="ULUSAL",TV 8.5
