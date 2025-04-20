@@ -41,6 +41,10 @@ https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 http://185.234.111.229:8000/play/a01y
 #EXTINF:-1 tvg-name="TV 100" tvg-language="Turkish" tvg-country="TR" tvg-id="TV100.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/tv100-tr.png?raw=true" group-title="ULUSAL",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+#EXTINF:-1 tvg-name="TRT HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="TRTHaber.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/trt-haber-tr.png?raw=true" group-title="ULUSAL",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT WORLD" tvg-language="Turkish" tvg-country="TR" tvg-id="TRTWorld.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/trt-world-tr.png?raw=true" group-title="ULUSAL",TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="A HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="AHaber.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/a-haber-tr.png?raw=true" group-title="ULUSAL",A HABER
 http://185.234.111.229:8000/play/a019
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="TRTSpor.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/trt-spor-tr.png?raw=true" group-title="ULUSAL",TRT SPOR
