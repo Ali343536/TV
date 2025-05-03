@@ -5,8 +5,8 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 http://185.234.111.229:8000/play/a00y
 #EXTINF:-1 tvg-name="Halk TV" tvg-language="Turkish" tvg-country="TR" tvg-id="HalkTV.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/halk-tv-tr.png?raw=true" group-title="ULUSAL",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
-#EXTINF:-1 tvg-name="360" tvg-language="Turkish" tvg-country="TR" tvg-id="360.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/360-tr.png?raw=true" group-title="ULUSAL",360
-http://185.234.111.229:8000/play/a05a
+#EXTINF:-1 tvg-name="KANAL D" tvg-language="Turkish" tvg-country="TR" tvg-id="KanalD.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/kanal-d-tr.png?raw=true" group-title="ULUSAL",KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-name="SHOW TV" tvg-language="Turkish" tvg-country="TR" tvg-id="ShowTV.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/show-tr.png?raw=true" group-title="ULUSAL",SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 #EXTINF:-1 tvg-name="STAR TV" tvg-language="Turkish" tvg-country="TR" tvg-id="StarTV.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/star-tv-tr.png?raw=true" group-title="ULUSAL",STAR TV
@@ -23,8 +23,6 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=7b6kzrdxqhq6&app=bf58
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-name="TRT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT2.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/trt-2-tr.png?raw=true" group-title="ULUSAL",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="KANAL D" tvg-language="Turkish" tvg-country="TR" tvg-id="KanalD.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/kanal-d-tr.png?raw=true" group-title="ULUSAL",KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-name="Bloomberg HT" tvg-language="Turkish" tvg-country="TR" tvg-id="BloombergHT.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/bloomberg-ht-tr.png?raw=true" group-title="ULUSAL",Bloomberg HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1 tvg-name="A PARA" tvg-language="Turkish" tvg-country="TR" tvg-id="APara.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/a-para-tr.png?raw=true" group-title="ULUSAL",A PARA
