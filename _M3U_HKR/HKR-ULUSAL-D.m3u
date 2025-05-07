@@ -38,7 +38,7 @@ https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="Bloomberg HT" tvg-language="Turkish" tvg-country="TR" tvg-id="BloombergHT.tr" tvg-logo="https://i.ibb.co/5W90vHzv/bloomberg-ht-tr.png" group-title="ULUSAL",Bloomberg HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 
-#EXTINF:-1 tvg-name="A PARA" tvg-language="Turkish" tvg-country="TR" tvg-id="APara.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/a-para-tr.png?raw=true" group-title="ULUSAL",A PARA
+#EXTINF:-1 tvg-name="A PARA" tvg-language="Turkish" tvg-country="TR" tvg-id="APara.tr" tvg-logo="https://i.ibb.co/FkX9N6XT/a-para-tr.png" group-title="ULUSAL",A PARA
 http://185.234.111.229:8000/play/a01l
 
 #EXTINF:-1 tvg-name="BEYAZ TV" tvg-language="Turkish" tvg-country="TR" tvg-id="BeyazTV.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/beyaz-tv-tr.png?raw=true" group-title="ULUSAL",BEYAZ TV
@@ -110,7 +110,7 @@ https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 #EXTINF:-1 tvg-name="SPORTS TV" tvg-language="Turkish" tvg-country="TR" tvg-id="SportsTV.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/sportstv.png?raw=true" group-title="ULUSAL",SPORTS TV
 http://stream.tvcdn.net/spor/sports-tv.m3u8
 
-#EXTINF:-1 tvg-name="BRIC & SATRANC TV" tvg-language="Turkish" tvg-country="TR" tvg-id="BricveSatrancTV.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/bric-satranc-tv.png?raw=true" group-title="ULUSAL",BRIC & SATRANC TV
+#EXTINF:-1 tvg-name="BRIC & SATRANC TV" tvg-language="Turkish" tvg-country="TR" tvg-id="BricveSatrancTV.tr" tvg-logo="https://i.ibb.co/ynKtYx95/bric-satranc-tv.png" group-title="ULUSAL",BRIC & SATRANC TV
 http://139.162.182.79/live/test/index.m3u8
 
 #EXTINF:-1 tvg-name="National Geographic" tvg-language="Turkish" tvg-country="TR" tvg-id="NationalGeographic.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/national-geographic.png?raw=true" group-title="ULUSAL",National Geographic
