@@ -95,10 +95,10 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="A HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="AHaber.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/a-haber-tr.png?raw=true" group-title="ULUSAL",A HABER
 http://185.234.111.229:8000/play/a019
 
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="TRTSpor.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/trt-spor-tr.png?raw=true" group-title="ULUSAL",TRT SPOR
-http://stream.tvcdn.net/spor/trt-spor.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/v6yYWwqs/trt-spor-tr.png" group-title="ULUSAL",TRT SPOR
+https://trt.daioncdn.net/trtspor/master.m3u8?app=clean
 
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-language="Turkish" tvg-country="TR" tvg-id="TRTSporYildiz.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/trt-spor-yildiz-tr.png?raw=true" group-title="ULUSAL",TRT SPOR YILDIZ
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-language="Turkish" tvg-country="TR" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/HLVHphdx/trt-spor-yildiz-tr.png" group-title="ULUSAL",TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="A SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="ASpor.tr" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/a-spor-tr.png?raw=true" group-title="ULUSAL",A SPOR
