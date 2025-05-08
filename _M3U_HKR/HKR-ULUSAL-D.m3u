@@ -3,7 +3,7 @@
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NUMBER 1 TURK" tvg-language="Turkish" tvg-country="TR" tvg-id="Number1Turk.tr" tvg-logo="https://i.ibb.co/TQcs4XG/nr1-turk-tr.png" group-title="ULUSAL",NUMBER 1 TURK
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8?md5=T5XRaMShyuirhEdm4U70yQ&expires=1745141016
 
 #EXTINF:-1 tvg-name="NUMBER 1 ASK" tvg-language="Turkish" tvg-country="TR" tvg-id="Number1Ask.tr" tvg-logo="https://i.ibb.co/Fkyf235T/nr1-ask-tr.png" group-title="ULUSAL",NUMBER 1 ASK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
