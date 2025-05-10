@@ -143,6 +143,15 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="KRAL POP" tvg-language="Turkish" tvg-country="TR" tvg-id="KralPopTV.tr" tvg-logo="https://i.ibb.co/KxfpQCpL/kral-pop-tr.png" group-title="ULUSAL",KRAL POP
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 
+#EXTINF:-1 tvg-name="NUMBER 1 ASK" tvg-language="Turkish" tvg-country="TR" tvg-id="Number1Ask.tr" tvg-logo="https://i.ibb.co/Fkyf235T/nr1-ask-tr.png" group-title="ULUSAL",NUMBER 1 ASK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NUMBER 1 DAMAR" tvg-language="Turkish" tvg-country="TR" tvg-id="Number1Damar.tr" tvg-logo="https://i.ibb.co/0RCryKwm/nr1-damar-tr.png" group-title="ULUSAL",NUMBER 1 DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NUMBER 1 DANCE" tvg-language="Turkish" tvg-country="TR" tvg-id="Number1Dance.tr" tvg-logo="https://i.ibb.co/4nkXCH4Z/nr1-dance-tr.png" group-title="ULUSAL",NUMBER 1 DANCE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+
 #EXTINF:-1 tvg-name="POWER TURK" tvg-language="Turkish" tvg-country="TR" tvg-id="PowerTurkTV.tr" tvg-logo="https://i.ibb.co/mF9ZzHFW/powerturk-tr.png" group-title="ULUSAL",POWER TURK
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
