@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="NOW TV" tvg-language="Turkish" tvg-country="TR" tvg-id="NOWTV.tr" tvg-logo="https://i.ibb.co/sv89dtG7/now-tr.png" group-title="ULUSAL",NOW TV
+#EXTINF:-1 tvg-name="NOW TV" tvg-language="Turkish" tvg-country="TR" tvg-id="NOW.tr" tvg-logo="https://i.ibb.co/sv89dtG7/now-tr.png" group-title="ULUSAL",NOW TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
 
-#EXTINF:-1 tvg-name="Sözcü TV" tvg-language="Turkish" tvg-country="TR" tvg-id="SozcuTV.tr" tvg-logo="https://i.ibb.co/4ZHSQYwt/sozcu-tv-tr.png" group-title="ULUSAL",Sözcü TV
+#EXTINF:-1 tvg-name="Sözcü TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Szc Tv.tr" tvg-logo="https://i.ibb.co/4ZHSQYwt/sozcu-tv-tr.png" group-title="ULUSAL",Sözcü TV
 http://185.234.111.229:8000/play/a00y
 
-#EXTINF:-1 tvg-name="Halk TV" tvg-language="Turkish" tvg-country="TR" tvg-id="HalkTV.tr" tvg-logo="https://i.ibb.co/wkc44k7/halk-tv-tr.png" group-title="ULUSAL",Halk TV
+#EXTINF:-1 tvg-name="Halk TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Halk TV.tr" tvg-logo="https://i.ibb.co/wkc44k7/halk-tv-tr.png" group-title="ULUSAL",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 
-#EXTINF:-1 tvg-name="KANAL D" tvg-language="Turkish" tvg-country="TR" tvg-id="KanalD.tr" tvg-logo="https://i.ibb.co/3mFWkFzy/kanal-d-tr.png" group-title="ULUSAL",KANAL D
+#EXTINF:-1 tvg-name="KANAL D" tvg-language="Turkish" tvg-country="TR" tvg-id="Kanal D.tr" tvg-logo="https://i.ibb.co/3mFWkFzy/kanal-d-tr.png" group-title="ULUSAL",KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
-#EXTINF:-1 tvg-name="SHOW TV" tvg-language="Turkish" tvg-country="TR" tvg-id="ShowTV.tr" tvg-logo="https://i.ibb.co/XkLFsY3R/show-tr.png" group-title="ULUSAL",SHOW TV
+#EXTINF:-1 tvg-name="SHOW TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Show TV.tr" tvg-logo="https://i.ibb.co/XkLFsY3R/show-tr.png" group-title="ULUSAL",SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV" tvg-language="Turkish" tvg-country="TR" tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/nNdnnhxS/star-tv-tr.png" group-title="ULUSAL",STAR TV
@@ -29,16 +29,16 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-name="TV 8.5" tvg-language="Turkish" tvg-country="TR" tvg-id="TV85.tr" tvg-logo="https://i.ibb.co/N6WXpwcS/tv85-tr.png" group-title="ULUSAL",TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=7b6kzrdxqhq6&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
 
-#EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/qFY0q1Cx/trt-1-tr.png" group-title="ULUSAL",TRT 1
+#EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT 1.tr" tvg-logo="https://i.ibb.co/qFY0q1Cx/trt-1-tr.png" group-title="ULUSAL",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-name="TRT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT2.tr" tvg-logo="https://i.ibb.co/6cy4s7C5/trt-2-tr.png" group-title="ULUSAL",TRT 2
+#EXTINF:-1 tvg-name="TRT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT 2.tr" tvg-logo="https://i.ibb.co/6cy4s7C5/trt-2-tr.png" group-title="ULUSAL",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-name="Bloomberg HT" tvg-language="Turkish" tvg-country="TR" tvg-id="BloombergHT.tr" tvg-logo="https://i.ibb.co/5W90vHzv/bloomberg-ht-tr.png" group-title="ULUSAL",Bloomberg HT
+#EXTINF:-1 tvg-name="Bloomberg HT" tvg-language="Turkish" tvg-country="TR" tvg-id="Bloomberg HT.tr" tvg-logo="https://i.ibb.co/5W90vHzv/bloomberg-ht-tr.png" group-title="ULUSAL",Bloomberg HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 
-#EXTINF:-1 tvg-name="A PARA" tvg-language="Turkish" tvg-country="TR" tvg-id="APara.tr" tvg-logo="https://i.ibb.co/FkX9N6XT/a-para-tr.png" group-title="ULUSAL",A PARA
+#EXTINF:-1 tvg-name="A PARA" tvg-language="Turkish" tvg-country="TR" tvg-id="A Para.tr" tvg-logo="https://i.ibb.co/FkX9N6XT/a-para-tr.png" group-title="ULUSAL",A PARA
 http://185.234.111.229:8000/play/a01l
 
 #EXTINF:-1 tvg-name="BEYAZ TV" tvg-language="Turkish" tvg-country="TR" tvg-id="BeyazTV.tr" tvg-logo="https://i.ibb.co/LXq3RdKw/beyaz-tv-tr.png" group-title="ULUSAL",BEYAZ TV
