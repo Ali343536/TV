@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="NUMBER 1 TURK" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2015/12/N1_TurkFM-1.png" group-title="ULUSAL",NUMBER 1 TURK
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e30cf8d28e_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TIVI 6" tvg-language="Turkish" tvg-country="TR" tvg-id="Tivi6.tr" tvg-logo="https://i.ibb.co/dwzh2Mr7/tivi6-tr.png" group-title="ULUSAL",TİVİ 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
