@@ -50,16 +50,16 @@ https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
 #EXTINF:-1 tvg-name="KANAL 7" tvg-language="Turkish" tvg-country="TR" tvg-id="Kanal7.tr" tvg-logo="https://i.ibb.co/Ldx7Qsn4/kanal-7-tr.png" group-title="ULUSAL",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 
-#EXTINF:-1 tvg-name="HABERTURK TV" tvg-language="Turkish" tvg-country="TR" tvg-id="HaberturkTV.tr" tvg-logo="https://i.ibb.co/fYdHxHpr/haberturk-tr.png" group-title="ULUSAL",HABERTURK TV
+#EXTINF:-1 tvg-name="HABERTURK TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber Turk.tr" tvg-logo="https://i.ibb.co/fYdHxHpr/haberturk-tr.png" group-title="ULUSAL",HABERTURK TV
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_720p.m3u8
 
 #EXTINF:-1 tvg-name="NTV" tvg-language="Turkish" tvg-country="TR" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/HfRJ2Q1w/ntv-tr.png" group-title="ULUSAL",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 
-#EXTINF:-1 tvg-name="TELE 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Tele1.tr" tvg-logo="https://i.ibb.co/Pshzv8yR/tele1-tr.png" group-title="ULUSAL",TELE 1
+#EXTINF:-1 tvg-name="TELE 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Tele 1.tr" tvg-logo="https://i.ibb.co/Pshzv8yR/tele1-tr.png" group-title="ULUSAL",TELE 1
 http://185.234.111.229:8000/play/a01y
 
-#EXTINF:-1 tvg-name="TV 100" tvg-language="Turkish" tvg-country="TR" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/whYC4fHh/tv100-tr.png" group-title="ULUSAL",TV 100
+#EXTINF:-1 tvg-name="TV 100" tvg-language="Turkish" tvg-country="TR" tvg-id="Tv 100.tr" tvg-logo="https://i.ibb.co/whYC4fHh/tv100-tr.png" group-title="ULUSAL",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 
 #EXTINF:-1 tvg-name="24 TV" tvg-language="Turkish" tvg-country="TR" tvg-id="24TV.tr" tvg-logo="https://i.ibb.co/1GdTfqvR/24-tr.png" group-title="ULUSAL",24 TV
@@ -86,28 +86,28 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1 tvg-name="Bloomberg US" tvg-language="English" tvg-country="TR" tvg-id="BloombergTV.us" tvg-logo="https://i.ibb.co/GQrwnCrS/bloomberg-us.png" group-title="ULUSAL",Bloomberg US
 http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
 
-#EXTINF:-1 tvg-name="TRT HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="TRTHaber.tr" tvg-logo="https://i.ibb.co/7sBmPJ9/trt-haber-tr.png" group-title="ULUSAL",TRT HABER
+#EXTINF:-1 tvg-name="TRT HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT Haber.tr" tvg-logo="https://i.ibb.co/7sBmPJ9/trt-haber-tr.png" group-title="ULUSAL",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT WORLD" tvg-language="Turkish" tvg-country="TR" tvg-id="TRTWorld.tr" tvg-logo="https://i.ibb.co/F4YpyhzQ/trt-world-tr.png" group-title="ULUSAL",TRT WORLD
+#EXTINF:-1 tvg-name="TRT WORLD" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT World.tr" tvg-logo="https://i.ibb.co/F4YpyhzQ/trt-world-tr.png" group-title="ULUSAL",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="A HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="AHaber.tr" tvg-logo="https://i.ibb.co/9H63Ds2y/a-haber-tr.png" group-title="ULUSAL",A HABER
 http://185.234.111.229:8000/play/a019
 
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/v6yYWwqs/trt-spor-tr.png" group-title="ULUSAL",TRT SPOR
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT Spor.tr" tvg-logo="https://i.ibb.co/v6yYWwqs/trt-spor-tr.png" group-title="ULUSAL",TRT SPOR
 https://trt.daioncdn.net/trtspor/master.m3u8?app=clean
 
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-language="Turkish" tvg-country="TR" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/HLVHphdx/trt-spor-yildiz-tr.png" group-title="ULUSAL",TRT SPOR YILDIZ
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT Spor Yıldız.tr" tvg-logo="https://i.ibb.co/HLVHphdx/trt-spor-yildiz-tr.png" group-title="ULUSAL",TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-name="A SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="ASpor.tr" tvg-logo="https://i.ibb.co/TDkjrJ5K/a-spor-tr.png" group-title="ULUSAL",A SPOR
+#EXTINF:-1 tvg-name="A SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="a Spor.tr" tvg-logo="https://i.ibb.co/TDkjrJ5K/a-spor-tr.png" group-title="ULUSAL",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 
-#EXTINF:-1 tvg-name="HT SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="HTSporTV.tr" tvg-logo="https://i.ibb.co/QzT7Kjw/ht-spor.png" group-title="ULUSAL",HT SPOR
+#EXTINF:-1 tvg-name="HT SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="HT Spor.tr" tvg-logo="https://i.ibb.co/QzT7Kjw/ht-spor.png" group-title="ULUSAL",HT SPOR
 https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 
-#EXTINF:-1 tvg-name="SPORTS TV" tvg-language="Turkish" tvg-country="TR" tvg-id="SportsTV.tr" tvg-logo="https://i.ibb.co/W4wpwY3s/sports-tv-tr.png" group-title="ULUSAL",SPORTS TV
+#EXTINF:-1 tvg-name="SPORTS TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Sports Tv.tr" tvg-logo="https://i.ibb.co/W4wpwY3s/sports-tv-tr.png" group-title="ULUSAL",SPORTS TV
 http://stream.tvcdn.net/spor/sports-tv.m3u8
 
 #EXTINF:-1 tvg-name="BRIC & SATRANC TV" tvg-language="Turkish" tvg-country="TR" tvg-id="BricveSatrancTV.tr" tvg-logo="https://i.ibb.co/ynKtYx95/bric-satranc-tv.png" group-title="ULUSAL",BRIC & SATRANC TV
