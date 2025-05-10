@@ -140,6 +140,9 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT MUZIK" tvg-language="Turkish" tvg-country="TR" tvg-id="TRTMuzik.tr" tvg-logo="https://i.ibb.co/4ZkR6N2S/trt-muzik-tr.png" group-title="ULUSAL",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-name="KRAL POP" tvg-language="Turkish" tvg-country="TR" tvg-id="KralPopTV.tr" tvg-logo="https://i.ibb.co/KxfpQCpL/kral-pop-tr.png" group-title="ULUSAL",KRAL POP
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+
 #EXTINF:-1 tvg-name="POWER TURK" tvg-language="Turkish" tvg-country="TR" tvg-id="PowerTurkTV.tr" tvg-logo="https://i.ibb.co/mF9ZzHFW/powerturk-tr.png" group-title="ULUSAL",POWER TURK
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
