@@ -42,7 +42,7 @@ https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 http://185.234.111.229:8000/play/a01l
 
 #EXTINF:-1 tvg-name="BEYAZ TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Beyaz TV.tr" tvg-logo="https://i.ibb.co/LXq3RdKw/beyaz-tv-tr.png" group-title="ULUSAL",BEYAZ TV
-http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 
 #EXTINF:-1 tvg-name="TEVE 2" tvg-language="Turkish" tvg-country="TR" tvg-id="teve2.tr" tvg-logo="https://i.ibb.co/tpV7p10n/teve2-tr.png" group-title="ULUSAL",TEVE 2
 https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
