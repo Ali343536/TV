@@ -69,7 +69,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 http://185.234.111.229:8000/play/a05a
 
 #EXTINF:-1 tvg-name="CNN TURK" tvg-language="Turkish" tvg-country="TR" tvg-id="CNN Turk.tr" tvg-logo="https://i.ibb.co/qYd0XK3b/cnn-turk-tr.png" group-title="ULUSAL",CNN TURK
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2305/index.m3u8
+https://b.fulltvizle.com/cnn/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CNN International US" tvg-language="English" tvg-country="US" tvg-id="CNNInternational.us" tvg-logo="https://i.ibb.co/bRQxgfbx/cnn-international-us.png" group-title="ULUSAL",CNN International US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
