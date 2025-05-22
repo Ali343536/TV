@@ -182,6 +182,6 @@ https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="POWER LOVE" tvg-language="Turkish" tvg-country="TR" tvg-id="PowerLove.tr" tvg-logo="https://i.ibb.co/Tx7nrh7J/power-love.png" group-title="ULUSAL",POWER LOVE
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ONS TV" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://i.ibb.co/GwWnJVG/ons-tv.jpg" group-title="ULUSAL",ONS TV
+#EXTINF:-1 tvg-name="ONS TV" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://i.ibb.co/Ndn6B6tH/ons-tv.png" group-title="ULUSAL",ONS TV
 https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
 
