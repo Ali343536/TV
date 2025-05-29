@@ -13,3 +13,6 @@ https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=fGcxni-8CGQ
 
 EXTINF:-1 tvg-name="TIVI 6" tvg-language="Turkish" tvg-country="TR" tvg-id="Tivi6.tr" tvg-logo="https://i.ibb.co/dwzh2Mr7/tivi6-tr.png" group-title="ULUSAL",KRT TV YOUTUBE
 https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=3w_IAPs3cm4
+
+EXTINF:-1 tvg-name="" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://i.ibb.co/dwzh2Mr7/tivi6-tr.png" group-title="ULUSAL",NASIL BIR EKONOMI TV
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=UycFYFBnrhQ
