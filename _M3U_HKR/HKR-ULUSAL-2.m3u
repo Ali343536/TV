@@ -107,6 +107,9 @@ https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="A SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="a Spor.tr" tvg-logo="https://i.ibb.co/TDkjrJ5K/a-spor-tr.png" group-title="ULUSAL",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 
+#EXTINF:-1 tvg-name="BEIN SPORTS HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="beIN SPORTS HABER HD.tr" tvg-logo="https://i.ibb.co/7tMSyK8W/bein-sports-haber-tr.png" group-title="ULUSAL",BEIN SPORTS HABER
+https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=CtUorRNqC4s
+
 #EXTINF:-1 tvg-name="HT SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="HT Spor.tr" tvg-logo="https://i.ibb.co/QzT7Kjw/ht-spor.png" group-title="ULUSAL",HT SPOR
 https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 
