@@ -59,6 +59,9 @@ https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-name="TELE 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Tele 1.tr" tvg-logo="https://i.ibb.co/Pshzv8yR/tele1-tr.png" group-title="ULUSAL",TELE 1
 http://185.234.111.229:8000/play/a01y
 
+#EXTINF:-1 tvg-name="Bi KANAL" tvg-language="Turkish" tvg-country="TR" tvg-id="Bi kanal.tr" tvg-logo="https://i.ibb.co/mrXw4MXc/bi-kanal.png" group-title="ULUSAL",Bi KANAL
+https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
+
 #EXTINF:-1 tvg-name="TV 100" tvg-language="Turkish" tvg-country="TR" tvg-id="Tv 100.tr" tvg-logo="https://i.ibb.co/whYC4fHh/tv100-tr.png" group-title="ULUSAL",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 
@@ -193,4 +196,5 @@ https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ONS TV" tvg-language="Turkish" tvg-country="TR" tvg-id="" tvg-logo="https://i.ibb.co/Ndn6B6tH/ons-tv.png" group-title="ULUSAL",ONS TV
 https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
+
 
